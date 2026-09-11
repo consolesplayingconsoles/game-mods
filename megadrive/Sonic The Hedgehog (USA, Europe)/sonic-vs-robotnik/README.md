@@ -2,6 +2,8 @@
 
 A local **2-player fighting mod** for the Mega Drive game *Sonic the Hedgehog*, carved out of its boss fights. Player 1 is Sonic; **Player 2 controls Robotnik** and fights back.
 
+![Duel picker](sonic_vs_robotink_title.png) ![Green Hill duel](sonic_vs_robotnik_1.png)
+
 ## Download
 
 **Latest release:** [Sonic_The_Hedgehog_USA-EU_Sonic_vs_Robotnik_v1.0-Beta](https://github.com/consolesplayingconsoles/game-mods/releases/tag/sonic-the-hedgehog-usa-eu-sonic-vs-robotnik-v1.0-beta)

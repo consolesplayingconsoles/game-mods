@@ -2,6 +2,8 @@
 
 A mod for *Sonic 3 & Knuckles* on the Mega Drive: press **C** to swap between **Sonic and Knuckles mid-level**, even mid-air. Super form is free and stays on until you drop it.
 
+![Title screen](sonic3_hyper_swap_title.png) ![Knuckles and Super Sonic in Angel Island](sonic3_hyper_swap_1.png) ![Super Sonic in Launch Base](sonic3_hyper_swap_2.png) ![Super Sonic in Angel Island](sonic3_hyper_swap_3.png)
+
 ## Download
 
 **Latest release:** [Sonic_and_Knuckles_Sonic_3_World_Hyper_Swap_v1.0](https://github.com/consolesplayingconsoles/game-mods/releases/tag/sonic-and-knuckles-sonic-3-world-hyper-swap-v1.0)
