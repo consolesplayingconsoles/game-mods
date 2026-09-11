@@ -46,14 +46,12 @@ Start a game as usual (Sonic & Tails, Sonic alone, or Knuckles), then:
 
 - **Super is free.** You start every act with all 7 Chaos Emeralds, and your rings are topped up to 50 whenever you transform. Once Super, you stay Super (no ring drain) until you press B in the air to drop it.
 - **No swapping while Super.** Drop Super with B first, then press C.
-- **Player 2 can swap too.** In Sonic & Tails, a second pad on port 2 can press C to turn Tails into Sonic or Knuckles. You can't swap into the character the other player already is.
 - **As Knuckles, B transforms instead of gliding.** Glide with A. Gliding while Super drops you back to normal form. This is deliberate.
 - **Level select and debug mode are on**, the game's own retail cheats, pre-entered. The title menu gains a Level Select option.
 
 ## Known issues
 
 - **Tails is not a swap target.** You can swap away from him, but not into him.
-- **Player 2 as Sonic or Knuckles may show odd colours.** Both players share one palette on the Mega Drive, and it follows Player 1.
 - **The lives icon doesn't change** when you swap.
 - **Elemental shield moves are unreachable**, since B transforms first (you always have the emeralds).
 - **Cutscenes with Knuckles** (Mushroom Hill act 1, Lava Reef act 2): if you are Knuckles, you'll meet yourself.
