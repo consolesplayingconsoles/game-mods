@@ -4,7 +4,9 @@ A sandbox mod for the Dreamcast game *Tokyo Bus Guide* (東京バス案内, Fort
 the bus and walk as one of the game's own pedestrians, take any traffic car or parked taxi, and
 drive around Tokyo with the route rules switched off.
 
-![On foot](tokyo_bs_guide_2.png) ![Taking a taxi](tokyo_bs_guide_3.png) ![Ghost mode](tokyo_bs_guide_5.png)
+![Title screen](tokyo_bs_guide_title.png) ![On foot](tokyo_bs_guide_2.png) ![Taking a taxi](tokyo_bs_guide_3.png) ![Ghost mode](tokyo_bs_guide_5.png)
+
+The Japanese build keeps the game's own logo, with the same joke: ![Japanese title](tokyo_bs_guide_title_jp.png)
 
 ## Download
 
