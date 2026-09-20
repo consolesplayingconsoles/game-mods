@@ -12,8 +12,8 @@ drive around Tokyo with the route rules switched off.
 
 Two builds, same mod:
 
-* `Tokyo Bus Guide (Japan) [Tokyo BS Guide by cpc v1.0].dcp` — with the English translation.
-* `Tokyo Bus Guide (Japan) [Tokyo BS Guide JP by cpc v1.0].dcp` — with the game's Japanese text.
+* [`Tokyo Bus Guide (Japan) [Tokyo BS Guide by cpc v1.0].dcp`](https://github.com/consolesplayingconsoles/game-mods/releases/download/tokyo-bus-guide-japan-tokyo-bs-guide-v1.0/Tokyo.Bus.Guide.Japan.Tokyo.BS.Guide.by.cpc.v1.0.dcp) — with the English translation.
+* [`Tokyo Bus Guide (Japan) [Tokyo BS Guide JP by cpc v1.0].dcp`](https://github.com/consolesplayingconsoles/game-mods/releases/download/tokyo-bus-guide-japan-tokyo-bs-guide-v1.0/Tokyo.Bus.Guide.Japan.Tokyo.BS.Guide.JP.by.cpc.v1.0.dcp) — with the game's Japanese text.
 
 Releases in this monorepo are namespaced per game, so the tag carries the game name
 (`tokyo-bus-guide-japan-...`), not just a version.
