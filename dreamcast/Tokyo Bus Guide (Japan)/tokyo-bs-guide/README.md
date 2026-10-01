@@ -10,12 +10,12 @@ The Japanese build keeps the game's own logo, with the same joke: ![Japanese tit
 
 ## Download
 
-**Latest release:** [Tokyo BS Guide v1.0](https://github.com/consolesplayingconsoles/game-mods/releases/tag/tokyo-bus-guide-japan-tokyo-bs-guide-v1.0)
+**Latest release:** [Tokyo BS Guide v1.1](https://github.com/consolesplayingconsoles/game-mods/releases/tag/tokyo-bus-guide-japan-tokyo-bs-guide-v1.1)
 
 Two builds, same mod:
 
-* [`Tokyo Bus Guide (Japan) [Tokyo BS Guide by cpc v1.0].dcp`](https://github.com/consolesplayingconsoles/game-mods/releases/download/tokyo-bus-guide-japan-tokyo-bs-guide-v1.0/Tokyo.Bus.Guide.Japan.Tokyo.BS.Guide.by.cpc.v1.0.dcp) — with the English translation.
-* [`Tokyo Bus Guide (Japan) [Tokyo BS Guide JP by cpc v1.0].dcp`](https://github.com/consolesplayingconsoles/game-mods/releases/download/tokyo-bus-guide-japan-tokyo-bs-guide-v1.0/Tokyo.Bus.Guide.Japan.Tokyo.BS.Guide.JP.by.cpc.v1.0.dcp) — with the game's Japanese text.
+* [`Tokyo Bus Guide (Japan) [Tokyo BS Guide by cpc v1.1].dcp`](https://github.com/consolesplayingconsoles/game-mods/releases/download/tokyo-bus-guide-japan-tokyo-bs-guide-v1.1/Tokyo.Bus.Guide.Japan.Tokyo.BS.Guide.by.cpc.v1.1.dcp): English (translation v1.1.2).
+* [`Tokyo Bus Guide (Japan) [Tokyo BS Guide JP by cpc v1.1].dcp`](https://github.com/consolesplayingconsoles/game-mods/releases/download/tokyo-bus-guide-japan-tokyo-bs-guide-v1.1/Tokyo.Bus.Guide.Japan.Tokyo.BS.Guide.JP.by.cpc.v1.1.dcp): Japanese.
 
 Releases in this monorepo are namespaced per game, so the tag carries the game name
 (`tokyo-bus-guide-japan-...`), not just a version.
@@ -30,21 +30,36 @@ Releases in this monorepo are namespaced per game, so the tag carries the game n
 * Penalties never lower the score, and are off entirely while you are out of the bus. That is
   the key to the whole thing: the levels turn out to be small and pleasant once traffic
   penalties stop throwing you out of them.
+* Ride trains, the Yurikamome and the Ferris wheel, and fly them.
+* Fly a helicopter and a Boeing 747.
+* Drop cars out of the 747.
+* Skydive: jump out mid-air, land on car roofs or the 747's back, jump from car to car, or grab
+  a falling car and drive it.
+* Board the plane or the helicopter in mid-air.
+* All courses unlocked.
+
+## Where to find the rides
+
+* **Ome:** helicopter and Boeing 747, anywhere on the route.
+* **Shinjuku:** trains, near the end of the route.
+* **Wangan:** Ferris wheel and Yurikamome in the first half, Boeing 747 mid-route (day and
+  evening).
 
 ## Controls
 
-| Button | On foot | In a car |
-|---|---|---|
-| Stick | walk (camera relative) | steer / height in ghost mode |
-| R | sprint | accelerate |
-| L | — | brake, then reverse |
-| A | jump | horn |
-| B | — | handbrake |
-| X | — | radio, next track |
-| Y | — | turbo burst |
-| D-pad Up | — | ghost mode on/off |
-| D-pad Down | next pedestrian look | — |
-| D-pad Right | enter/exit vehicle | enter/exit vehicle |
+| Button | On foot | In a car | Riding or flying |
+|---|---|---|---|
+| Stick | walk | steer, height in ghost mode | steer, climb, turn the wheel |
+| R | sprint | accelerate | forward |
+| L | | brake, reverse | back |
+| A | jump, double jump | horn | drop a car, spin the wheel |
+| B | | handbrake | brake |
+| X | | radio | radio |
+| Y | | turbo | turbo |
+| D-pad Up | | ghost mode | fly a train or the wheel |
+| D-pad Down | change pedestrian | | |
+| D-pad Left | next ride | | next ride |
+| D-pad Right | get on or in | get out | jump out |
 
 On the bus everything is the original game, plus D-pad Right to get off.
 
@@ -77,9 +92,8 @@ Runs on a real Dreamcast (tested through a GDEMU) and in Flycast.
 * **No building collision.** The game has none: the route grids are the route, not the world.
   The player, the cars and the bus collide with each other as boxes; buildings are scenery you
   walk and drive through.
-* **Flat ground on foot.** Your height stays where you got off, so ramps and bridges do not lift
-  you.
-* **AI cars pass through each other.** Only the car you drive collides.
+* **Flat ground on foot.** Ramps and bridges do not lift you.
+* **AI cars and dropped cars pass through each other.** Only the car you drive collides.
 * **Off-route scenery is thin.** Once penalties are gone you notice how little was built away
   from the route: a flat sea, placeholder ground, a few trees. It only ever had to look right
   from the bus.
